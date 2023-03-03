@@ -1,0 +1,52 @@
+C:\Users\Toiob Hossain\source\repos\FirstCoreApplication\FirstCoreApplication\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Toiob Hossain\source\repos\FirstCoreApplication\FirstCoreApplication\bin\Debug\net6.0\appsettings.json
+C:\Users\Toiob Hossain\source\repos\FirstCoreApplication\FirstCoreApplication\bin\Debug\net6.0\FirstCoreApplication.staticwebassets.runtime.json
+C:\Users\Toiob Hossain\source\repos\FirstCoreApplication\FirstCoreApplication\bin\Debug\net6.0\FirstCoreApplication.exe
+C:\Users\Toiob Hossain\source\repos\FirstCoreApplication\FirstCoreApplication\bin\Debug\net6.0\FirstCoreApplication.deps.json
+C:\Users\Toiob Hossain\source\repos\FirstCoreApplication\FirstCoreApplication\bin\Debug\net6.0\FirstCoreApplication.runtimeconfig.json
+C:\Users\Toiob Hossain\source\repos\FirstCoreApplication\FirstCoreApplication\bin\Debug\net6.0\FirstCoreApplication.dll
+C:\Users\Toiob Hossain\source\repos\FirstCoreApplication\FirstCoreApplication\bin\Debug\net6.0\FirstCoreApplication.pdb
+C:\Users\Toiob Hossain\source\repos\FirstCoreApplication\FirstCoreApplication\obj\Debug\net6.0\FirstCoreApplication.csproj.AssemblyReference.cache
+C:\Users\Toiob Hossain\source\repos\FirstCoreApplication\FirstCoreApplication\obj\Debug\net6.0\FirstCoreApplication.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Toiob Hossain\source\repos\FirstCoreApplication\FirstCoreApplication\obj\Debug\net6.0\FirstCoreApplication.AssemblyInfoInputs.cache
+C:\Users\Toiob Hossain\source\repos\FirstCoreApplication\FirstCoreApplication\obj\Debug\net6.0\FirstCoreApplication.AssemblyInfo.cs
+C:\Users\Toiob Hossain\source\repos\FirstCoreApplication\FirstCoreApplication\obj\Debug\net6.0\FirstCoreApplication.csproj.CoreCompileInputs.cache
+C:\Users\Toiob Hossain\source\repos\FirstCoreApplication\FirstCoreApplication\obj\Debug\net6.0\FirstCoreApplication.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Toiob Hossain\source\repos\FirstCoreApplication\FirstCoreApplication\obj\Debug\net6.0\FirstCoreApplication.RazorAssemblyInfo.cache
+C:\Users\Toiob Hossain\source\repos\FirstCoreApplication\FirstCoreApplication\obj\Debug\net6.0\FirstCoreApplication.RazorAssemblyInfo.cs
+C:\Users\Toiob Hossain\source\repos\FirstCoreApplication\FirstCoreApplication\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Toiob Hossain\source\repos\FirstCoreApplication\FirstCoreApplication\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Toiob Hossain\source\repos\FirstCoreApplication\FirstCoreApplication\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\Toiob Hossain\source\repos\FirstCoreApplication\FirstCoreApplication\obj\Debug\net6.0\scopedcss\bundle\FirstCoreApplication.styles.css
+C:\Users\Toiob Hossain\source\repos\FirstCoreApplication\FirstCoreApplication\obj\Debug\net6.0\scopedcss\projectbundle\FirstCoreApplication.bundle.scp.css
+C:\Users\Toiob Hossain\source\repos\FirstCoreApplication\FirstCoreApplication\obj\Debug\net6.0\FirstCoreApplication.dll
+C:\Users\Toiob Hossain\source\repos\FirstCoreApplication\FirstCoreApplication\obj\Debug\net6.0\refint\FirstCoreApplication.dll
+C:\Users\Toiob Hossain\source\repos\FirstCoreApplication\FirstCoreApplication\obj\Debug\net6.0\FirstCoreApplication.pdb
+C:\Users\Toiob Hossain\source\repos\FirstCoreApplication\FirstCoreApplication\obj\Debug\net6.0\FirstCoreApplication.genruntimeconfig.cache
+C:\Users\Toiob Hossain\source\repos\FirstCoreApplication\FirstCoreApplication\obj\Debug\net6.0\ref\FirstCoreApplication.dll
+D:\ASPdotNetProject\ASPdotNetPratices\FirstCoreApplication\bin\Debug\net6.0\appsettings.Development.json
+D:\ASPdotNetProject\ASPdotNetPratices\FirstCoreApplication\bin\Debug\net6.0\appsettings.json
+D:\ASPdotNetProject\ASPdotNetPratices\FirstCoreApplication\bin\Debug\net6.0\FirstCoreApplication.staticwebassets.runtime.json
+D:\ASPdotNetProject\ASPdotNetPratices\FirstCoreApplication\bin\Debug\net6.0\FirstCoreApplication.exe
+D:\ASPdotNetProject\ASPdotNetPratices\FirstCoreApplication\bin\Debug\net6.0\FirstCoreApplication.deps.json
+D:\ASPdotNetProject\ASPdotNetPratices\FirstCoreApplication\bin\Debug\net6.0\FirstCoreApplication.runtimeconfig.json
+D:\ASPdotNetProject\ASPdotNetPratices\FirstCoreApplication\bin\Debug\net6.0\FirstCoreApplication.dll
+D:\ASPdotNetProject\ASPdotNetPratices\FirstCoreApplication\bin\Debug\net6.0\FirstCoreApplication.pdb
+D:\ASPdotNetProject\ASPdotNetPratices\FirstCoreApplication\obj\Debug\net6.0\FirstCoreApplication.csproj.AssemblyReference.cache
+D:\ASPdotNetProject\ASPdotNetPratices\FirstCoreApplication\obj\Debug\net6.0\FirstCoreApplication.GeneratedMSBuildEditorConfig.editorconfig
+D:\ASPdotNetProject\ASPdotNetPratices\FirstCoreApplication\obj\Debug\net6.0\FirstCoreApplication.AssemblyInfoInputs.cache
+D:\ASPdotNetProject\ASPdotNetPratices\FirstCoreApplication\obj\Debug\net6.0\FirstCoreApplication.AssemblyInfo.cs
+D:\ASPdotNetProject\ASPdotNetPratices\FirstCoreApplication\obj\Debug\net6.0\FirstCoreApplication.csproj.CoreCompileInputs.cache
+D:\ASPdotNetProject\ASPdotNetPratices\FirstCoreApplication\obj\Debug\net6.0\FirstCoreApplication.MvcApplicationPartsAssemblyInfo.cache
+D:\ASPdotNetProject\ASPdotNetPratices\FirstCoreApplication\obj\Debug\net6.0\FirstCoreApplication.RazorAssemblyInfo.cache
+D:\ASPdotNetProject\ASPdotNetPratices\FirstCoreApplication\obj\Debug\net6.0\FirstCoreApplication.RazorAssemblyInfo.cs
+D:\ASPdotNetProject\ASPdotNetPratices\FirstCoreApplication\obj\Debug\net6.0\staticwebassets.build.json
+D:\ASPdotNetProject\ASPdotNetPratices\FirstCoreApplication\obj\Debug\net6.0\staticwebassets.development.json
+D:\ASPdotNetProject\ASPdotNetPratices\FirstCoreApplication\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\ASPdotNetProject\ASPdotNetPratices\FirstCoreApplication\obj\Debug\net6.0\scopedcss\bundle\FirstCoreApplication.styles.css
+D:\ASPdotNetProject\ASPdotNetPratices\FirstCoreApplication\obj\Debug\net6.0\scopedcss\projectbundle\FirstCoreApplication.bundle.scp.css
+D:\ASPdotNetProject\ASPdotNetPratices\FirstCoreApplication\obj\Debug\net6.0\FirstCoreApplication.dll
+D:\ASPdotNetProject\ASPdotNetPratices\FirstCoreApplication\obj\Debug\net6.0\refint\FirstCoreApplication.dll
+D:\ASPdotNetProject\ASPdotNetPratices\FirstCoreApplication\obj\Debug\net6.0\FirstCoreApplication.pdb
+D:\ASPdotNetProject\ASPdotNetPratices\FirstCoreApplication\obj\Debug\net6.0\FirstCoreApplication.genruntimeconfig.cache
+D:\ASPdotNetProject\ASPdotNetPratices\FirstCoreApplication\obj\Debug\net6.0\ref\FirstCoreApplication.dll
