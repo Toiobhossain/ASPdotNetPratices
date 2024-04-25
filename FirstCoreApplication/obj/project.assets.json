@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\ASPdotNetProject\\ASPdotNetPratices\\FirstCoreApplication\\FirstCoreApplication.csproj",
+      "projectUniqueName": "C:\\Users\\Toiob Hossain\\Desktop\\gittrialproject\\ASPdotNetPratices\\FirstCoreApplication\\FirstCoreApplication.csproj",
       "projectName": "FirstCoreApplication",
-      "projectPath": "D:\\ASPdotNetProject\\ASPdotNetPratices\\FirstCoreApplication\\FirstCoreApplication.csproj",
+      "projectPath": "C:\\Users\\Toiob Hossain\\Desktop\\gittrialproject\\ASPdotNetPratices\\FirstCoreApplication\\FirstCoreApplication.csproj",
       "packagesPath": "C:\\Users\\Toiob Hossain\\.nuget\\packages\\",
-      "outputPath": "D:\\ASPdotNetProject\\ASPdotNetPratices\\FirstCoreApplication\\obj\\",
+      "outputPath": "C:\\Users\\Toiob Hossain\\Desktop\\gittrialproject\\ASPdotNetPratices\\FirstCoreApplication\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Toiob Hossain\\AppData\\Roaming\\NuGet\\NuGet.Config",
