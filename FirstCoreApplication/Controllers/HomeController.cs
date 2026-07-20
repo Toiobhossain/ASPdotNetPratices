@@ -17,7 +17,14 @@ namespace FirstCoreApplication.Controllers
         {
             return View();
         }
-
+        public IActionResult Summation()
+        {
+            return View();
+        }
+        public IActionResult next()
+        {
+            return View();
+        }
         public IActionResult Privacy()
         {
             return View();
