@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Toiob Hossain\\Desktop\\gittrialproject\\ASPdotNetPratices\\FirstCoreApplication\\FirstCoreApplication.csproj": {}
+    "D:\\ASPdotNetProject\\ASPdotNetPratices\\FirstCoreApplication\\FirstCoreApplication.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Toiob Hossain\\Desktop\\gittrialproject\\ASPdotNetPratices\\FirstCoreApplication\\FirstCoreApplication.csproj": {
+    "D:\\ASPdotNetProject\\ASPdotNetPratices\\FirstCoreApplication\\FirstCoreApplication.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Toiob Hossain\\Desktop\\gittrialproject\\ASPdotNetPratices\\FirstCoreApplication\\FirstCoreApplication.csproj",
+        "projectUniqueName": "D:\\ASPdotNetProject\\ASPdotNetPratices\\FirstCoreApplication\\FirstCoreApplication.csproj",
         "projectName": "FirstCoreApplication",
-        "projectPath": "C:\\Users\\Toiob Hossain\\Desktop\\gittrialproject\\ASPdotNetPratices\\FirstCoreApplication\\FirstCoreApplication.csproj",
+        "projectPath": "D:\\ASPdotNetProject\\ASPdotNetPratices\\FirstCoreApplication\\FirstCoreApplication.csproj",
         "packagesPath": "C:\\Users\\Toiob Hossain\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Toiob Hossain\\Desktop\\gittrialproject\\ASPdotNetPratices\\FirstCoreApplication\\obj\\",
+        "outputPath": "D:\\ASPdotNetProject\\ASPdotNetPratices\\FirstCoreApplication\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Toiob Hossain\\AppData\\Roaming\\NuGet\\NuGet.Config",
